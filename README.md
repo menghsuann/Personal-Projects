@@ -8,6 +8,4 @@ Welcome to my github, where I list some recent projects.
 
 [An Etymologically-Categorized Vocabulary Order Generator](https://github.com/menghsuann/vocab_generator/blob/main/Recommender%20system%20of%20new%20vocabulary.pdf)
 
-• Proposed a model for supervised morphological analysis that integrates orthographic and semantic views of words
-
-• Modeled word formation in terms of morphological chains and applied for content-based recommender system by neural network
+• Proposed a model for supervised morphological analysis that integrates orthographic and semantic views of words. Modeled word formation in terms of morphological chains and applied for content-based recommender system by neural network
