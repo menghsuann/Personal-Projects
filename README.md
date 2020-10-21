@@ -14,3 +14,6 @@ Welcome to my github, where I list some recent projects.
 
 • Devised hardware paired with IoT talk system for intelligent aquaculture monitoring with CNN and LSTM model; monitored water conditions with real-time feedback system through cloud; transformed toxic nitrite to economically valuable glutamine; increased predictability of outcomes
 
+[International Genetically Engineered Machine (iGEM) Competition](https://github.com/menghsuann/Uknow_IOT/blob/main/Team:NCKU%20Tainan:Software%20-%202016.igem.org.pdf)
+
+• Built functional and affordable prototype for urine testing in health care using Arduino, sensor and self-layout chips; developed software to calculate data obtained by our device and translate them into the glucose concentrations with a user-friendly interface app [iGEM source](http://2016.igem.org/Team:NCKU_Tainan/Hardware)
