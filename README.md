@@ -9,3 +9,8 @@ Welcome to my github, where I list some recent projects.
 [An Etymologically-Categorized Vocabulary Order Generator](https://github.com/menghsuann/vocab_generator/blob/main/Recommender%20system%20of%20new%20vocabulary.pdf)
 
 • Proposed a model for supervised morphological analysis that integrates orthographic and semantic views of words. Modeled word formation in terms of morphological chains and applied for content-based recommender system by neural network
+
+[Long-Term IoT Startup Competition](https://github.com/menghsuann/longterm_IOT/blob/main/longterm.pdf)
+
+• Devised hardware paired with IoT talk system for intelligent aquaculture monitoring with CNN and LSTM model; monitored water conditions with real-time feedback system through cloud; transformed toxic nitrite to economically valuable glutamine; increased predictability of outcomes
+
