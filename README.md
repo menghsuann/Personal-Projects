@@ -1,5 +1,9 @@
 Welcome to my github, where I list some recent projects.
 
+[Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
+
+This project was my final submission to Udacity’s Machine Learning Engineering Nanodegree. During the project, I used industrial production and consumer sentiment data to predict macroeconomic indicator. I was able to improve on the mean absolute error with statistical significance using ensemble methods with LSTM that have been developed sinced the original source publication and data from FRED.
+
 [A LSTM-based method for ETF close prediction](https://github.com/menghsuann/etf_prediction/blob/main/ETF_prediction.pdf)
 
 • Constructed a smart trading system with machine learning; selected to be in the final 30 of 500 teams at T-Brain machine learning competition; published paper accepted in Technology and Applications of Artificial Intelligence (TAAI 2018)
