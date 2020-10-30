@@ -1,4 +1,4 @@
-Welcome to my github, where I list some recent projects.
+Welcome to my github!
 
 [Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
 
