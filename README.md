@@ -2,7 +2,7 @@ Welcome to my github!
 
 [Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
 
-This project was my final submission to Udacity’s Machine Learning Engineering Nanodegree. During the project, I used industrial production and consumer sentiment data to predict macroeconomic indicator. I was able to improve on the mean absolute error with statistical significance using ensemble methods with LSTM that have been developed sinced the original source publication and data from FRED.
+This project was my final submission to Udacity’s Machine Learning Engineering Nanodegree. I used industrial production and consumer sentiment data to predict macroeconomic indicator. I improved on the mean absolute error with statistical significance using ensemble methods with LSTM that have been developed sinced the original source publication and data from FRED.
 
 [A LSTM-based method for ETF close prediction](https://github.com/menghsuann/etf_prediction/blob/main/ETF_prediction.pdf)
 
