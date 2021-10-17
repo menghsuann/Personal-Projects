@@ -5,6 +5,7 @@ Welcome to my github!
 We conclude that the regime shifting classi cation can also be done using Deep Learning models such as XGBoost and LSTM rather than tradition MLE estimators like Markov Switching Auto Regressive models. This classi cation is important as di erent asset classes behave di erently under di erent market conditions. We are able to verify this successfully through regime classi cation and strategy back tests.
 
 [Machine Learning Project with Blackstone NY, Tactical Opportunities](https://github.com/menghsuann/RandomSurvivalForest/blob/main/RSF_LASTVERSION%20-%20Jupyter%20Notebook.pdf)
+
 • Developed a model to forecast the probability of default and prepayment using a multi-factor model based on Random survival forest, and time series of fundamentals
 
 [Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
