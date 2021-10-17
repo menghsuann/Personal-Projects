@@ -1,4 +1,5 @@
 Welcome to my github!
+[Regime Shift Model Prediction](https://github.com/menghsuann/RegimeShift/blob/main/Regime%20Shift%20Prediction.ipynb)
 
 [Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
 
