@@ -2,6 +2,8 @@ Welcome to my github!
 
 [Regime Shift Model Prediction](https://github.com/menghsuann/RegimeShift/blob/main/Regime%20Shift%20Prediction.ipynb)
 
+We conclude that the regime shifting classi cation can also be done using Deep Learning models such as XGBoost and LSTM rather than tradition MLE estimators like Markov Switching Auto Regressive models. This classi cation is important as di erent asset classes behave di erently under di erent market conditions. We are able to verify this successfully through regime classi cation and strategy back tests.
+
 [Macroeconomic Indicator Forecasting with LSTM](https://github.com/menghsuann/macroecon_forecast/blob/main/macroecon_forecast.pdf)
 
 I used industrial production and consumer sentiment data to predict macroeconomic indicator. I also improved on the mean absolute error with statistical significance using ensemble methods with LSTM that have been developed sinced the original source publication and data from FRED. This project was my final submission to Udacity’s Machine Learning Engineering Nanodegree. 
